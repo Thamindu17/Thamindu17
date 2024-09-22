@@ -1,6 +1,9 @@
+new file
 ## Hi there 👋
+
 This was change
 add changes
+
 
 <!--
 Hey
@@ -9,7 +12,7 @@ Hey
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
