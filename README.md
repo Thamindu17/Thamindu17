@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thamindu Kulasekara</h1>
 <h3 align="center">Studying B.Sc. (Hons) in Artificial Intelligence at the University of Moratuwa, Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thamindu17&label=Profile%20views&color=0e75b6&style=flat" alt="thamindu17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamindu17" alt="thamindu17" /></a> </p>
-
 - 📫 How to reach me **thamindusct028@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamindu17&show_icons=true&locale=en&layout=compact" alt="thamindu17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamindu17&show_icons=true&locale=en" alt="thamindu17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thamindu17&" alt="thamindu17" /></p>
